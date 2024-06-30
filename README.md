@@ -15,7 +15,7 @@ Excited to share my latest project:A Restaurant Menu App for Mobile.
 
 Task 3 Ecommerce Website:
 Excited to share my latest project:A Ecommerce Website.
-User-Centric Design: Seamless navigation and accessibility for all users.
-Engaging Visuals: product images and dynamic layouts.
-Responsive Design: Consistent performance across all devices.
-Personalized Experience: User-friendly interfaces.
+-User-Centric Design: Seamless navigation and accessibility for all users.
+-Engaging Visuals: product images and dynamic layouts.
+-Responsive Design: Consistent performance across all devices.
+-Personalized Experience: User-friendly interfaces.
